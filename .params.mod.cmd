@@ -1,1 +1,0 @@
-savedcmd_/home/matthewmu/c-projects/kernel_params/params.mod := printf '%s\n'   params.o | awk '!x[$$0]++ { print("/home/matthewmu/c-projects/kernel_params/"$$0) }' > /home/matthewmu/c-projects/kernel_params/params.mod

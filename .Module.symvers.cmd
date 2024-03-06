@@ -1,0 +1,1 @@
+savedcmd_/home/matthewmu/c-projects/kernel_params/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/matthewmu/c-projects/kernel_params/Module.symvers -T /home/matthewmu/c-projects/kernel_params/modules.order -i Module.symvers -e 
